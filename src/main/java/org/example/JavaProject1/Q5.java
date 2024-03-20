@@ -1,6 +1,8 @@
 package org.example.JavaProject1;
 
 public class Q5 {
+      /* Write a program to swap 2 numbers without a temporary variable? */
+
     public static void main(String[] args) {
 
         int x = 10;

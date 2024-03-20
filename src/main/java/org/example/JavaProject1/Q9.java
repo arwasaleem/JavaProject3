@@ -1,6 +1,10 @@
 package org.example.JavaProject1;
 
 public class Q9 {
+
+    /* Write a java program to find the second largest number in the array? */
+
+
     public static void main(String[] args) {
 
         int[] number = {2, 5, 7, 4, 9, 10, 15};

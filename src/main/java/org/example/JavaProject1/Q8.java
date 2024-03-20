@@ -1,6 +1,8 @@
 package org.example.JavaProject1;
 
 public class Q8 {
+    /* Maximum and minimum number in the array? */
+
     public static void main(String[] args) {
 
         int[] number = {12, 24, 36, 48, 60, 72, 84, 96, 120};

@@ -1,6 +1,9 @@
 package org.example.JavaProject1;
 
 public class Q4 {
+
+    /* Create a 2D array of integers. Develop a program which will calculate
+    the sum of even and odd numbers for that array. */
     public static void main(String[] args) {
 
         int[][] values = {

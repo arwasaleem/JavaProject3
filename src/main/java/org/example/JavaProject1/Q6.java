@@ -4,6 +4,8 @@ import java.util.Scanner;
 
 public class Q6 {
 
+    /* Write a java program to check whether a given number is prime or not?*/
+
     public static void main(String[] args) {
 
 
